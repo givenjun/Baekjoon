@@ -1,0 +1,9 @@
+# 컴파일 결과물 무시
+*.class
+/bin/
+/out/
+
+# IDE 설정 파일 무시 (선택)
+*.iml
+.idea/
+.vscode/
