@@ -6,10 +6,10 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    // 전체 파일 저장 시 자동 포맷
-    "editor.formatOnSave": true,
-    // Java 전용 포맷터 설정
-    "[java]": {
-        "editor.defaultFormatter": "redhat.java"
-    }
+    // // 전체 파일 저장 시 자동 포맷
+    // "editor.formatOnSave": true,
+    // // Java 전용 포맷터 설정
+    // "[java]": {
+    //     "editor.defaultFormatter": "redhat.java"
+    // }
 }
